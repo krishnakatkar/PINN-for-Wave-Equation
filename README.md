@@ -10,5 +10,5 @@ Following are the requirements to setup this project. Before moving with the exe
 •	PIL (Python Imaging Library)
 # To use this project on your local machine please use following steps
 
-1. Clone repository to your system: git clone https://github.com/krishnakatkar/PINN-for-Wave-Equation
+1. Clone repository to your system: git clone [https://github.com/krishnakatkar/PINN-for-Wave-Equation](https://github.com/krishnakatkar/PINN-for-Wave-Equation/blob/main/Final_PINN_wave_equation.ipynb)
 
